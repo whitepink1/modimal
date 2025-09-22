@@ -1,0 +1,130 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+@theme {
+  --color-primary-900: #0D100C;
+  --color-primary-800: #272F25;
+  --color-primary-750: #343E32;
+  --color-primary-700: #404E3E;
+  --color-primary-600: #5A6D57;
+  --color-primary: #748C70;
+  --color-primary-400: #839980;
+  --color-primary-300: #93A690;
+  --color-primary-200: #A2B39F;
+  --color-primary-100: #B2BFAF;
+  --color-primary-50: #D1D9CF;
+  --color-primary-25: #F0F2EF;
+  --color-black: #0C0C0C;
+  --color-white: #FFF;
+  --color-gray-2020: #202020;
+  --color-gray-4040: #404040;
+  --color-gray-0909: #090909;
+  --color-gray-9898: #989898;
+  --color-gray-ADAD: #ADADAD;
+  --color-gray-CBCB: #CBCBCB;
+  --color-gray-DFDF: #DFDFDF;
+  --color-gray-EDED: #EDEDED;
+  --color-gray-F9F9: #F9F9F9;
+  --color-error: #C30000;
+  --color-error-light: #ED2E2E;
+  --color-error-bg: #FFF2F2;
+  --color-warning: #E09126;
+  --color-warning-light: #ECBB77;
+  --color-warning-bg: #F7E4C9;
+  --color-success: #00966D;
+  --color-success-light: #00BA88;
+  --color-success-bg: #F3FDFA;
+  --spacing-page: 1220px;
+}
+
+@utility display-1 {
+  @apply font-bold text-[64px]
+}
+@utility display-2 {
+  @apply font-bold text-[56px]
+}
+@utility h1 {
+  @apply font-bold text-[44px]
+}
+@utility h2 {
+  @apply font-bold text-[40px]
+}
+@utility h3 {
+  @apply font-semibold text-[32px]
+}
+@utility h4 {
+  @apply font-bold text-[24px]
+}
+@utility h5 {
+  @apply font-bold text-[20px]
+}
+@utility h6 {
+  @apply font-bold text-[16px]
+}
+@utility mobile-h1 {
+  @apply font-bold text-[24px]
+}
+@utility mobile-h2 {
+  @apply font-bold text-[20px]
+}
+@utility mobile-h3 {
+  @apply font-bold text-[16px]
+}
+@utility mobile-h4 {
+  @apply font-semibold text-[14px]
+}
+@utility mobile-h5 {
+  @apply font-semibold text-[12px]
+}
+@utility body-xl {
+  @apply font-normal text-[20px]
+}
+@utility body-lg {
+  @apply font-normal text-[18px]
+}
+@utility body-md {
+  @apply font-normal text-[16px]
+}
+@utility body-sm {
+  @apply font-normal text-[14px]
+}
+@utility body-xs {
+  @apply font-normal text-[12px]
+}
+@utility mobile-body-lg {
+  @apply font-normal text-[14px]
+}
+@utility mobile-body-md {
+  @apply font-normal text-[14px]
+}
+@utility mobile-body-sm {
+  @apply font-normal text-[12px]
+}
+@utility mobile-body-xs {
+  @apply font-normal text-[10px]
+}
+@utility caption-lg {
+  @apply font-semibold text-[14px]
+}
+@utility caption-md {
+  @apply font-semibold text-[12px]
+}
+@utility caption-sm {
+  @apply font-semibold text-[10px]
+}
+@utility button-lg {
+  @apply font-normal text-[16px]
+}
+@utility button-sm {
+  @apply font-normal text-[14px]
+}
+@utility overline-lg {
+  @apply font-normal text-[16px]
+}
+@utility overline-sm {
+  @apply font-normal text-[12px]
+}
