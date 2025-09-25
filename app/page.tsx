@@ -1,8 +1,11 @@
+import BestSellers from "@/components/Main-Page/BestSellers";
+import HeroSection from "@/components/Main-Page/HeroSection";
 
 export default function Home() {
   return (
     <div className="">
-        <h1 className="display-1 text-primary-800 my-20">Hello</h1>
+        <HeroSection />
+        <BestSellers />
     </div>
   );
 }

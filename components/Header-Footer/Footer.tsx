@@ -6,7 +6,7 @@ import Image from 'next/image'
 
 const Footer = () => {
     return (
-        <div className='w-full bg-gray-4040 fixed bottom-0'>
+        <div className='w-full bg-gray-4040'>
             <div className='w-full flex flex-col items-start justify-center gap-6 lg:flex-row lg:justify-between max-w-page p-5 mx-auto lg:py-6 lg:px-0'>
                 <div className='block lg:h-64 lg:flex lg:flex-col lg:justify-between items-start'>
                     <SubscribeFooter />
