@@ -4,7 +4,7 @@ import WButton from '../shared/WButton'
 
 const HeroSection = () => {
     return (
-        <div className='relative w-full h-[550px] lg:h-[600px] mb-5 lg:mb-22'>
+        <div className='relative w-full h-[550px] lg:h-[600px]'>
             <Image 
                 src="/images/hero-section.png"
                 fill

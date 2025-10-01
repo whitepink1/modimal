@@ -1,0 +1,1941 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-18",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153455/1-yellow-1_eipzmo.jpg",
+    "name": "Silk Coat",
+    "colors": [
+      "yellow"
+    ],
+    "type": "coat",
+    "fabric": "silk",
+    "sizes": [
+      "s",
+      "xs",
+      "l"
+    ],
+    "price": 292,
+    "images": {
+      "yellow": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153455/1-yellow-1_eipzmo.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153455/1-yellow-2_tx8nxp.jpg"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "date": "2025-03-16",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153455/2-yellow-1_dfpay7.jpg",
+    "name": "Silk Jacket",
+    "colors": [
+      "yellow",
+      "red"
+    ],
+    "type": "jacket",
+    "fabric": "silk",
+    "sizes": [
+      "m",
+      "l",
+      "xs"
+    ],
+    "price": 112,
+    "images": {
+      "yellow": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153455/2-yellow-1_dfpay7.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/2-yellow-2_bwfiyf.jpg"
+      ],
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153455/2-red-1_kt3ppl.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153455/2-red-2_bktkdy.jpg"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "date": "2024-02-27",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/3-white-1_hb976n.jpg",
+    "name": "Cotton Jeans",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "type": "jeans",
+    "fabric": "cotton",
+    "sizes": [
+      "l",
+      "s",
+      "xs"
+    ],
+    "price": 36,
+    "images": {
+      "white": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/3-white-1_hb976n.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/3-white-2_ls6z1o.jpg"
+      ],
+      "black": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/3-black-1_vxho47.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/3-black-2_tewe8i.jpg"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "date": "2024-02-20",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/4-orange-1_fo7vkv.jpg",
+    "name": "Polyester Dress",
+    "colors": [
+      "orange"
+    ],
+    "type": "dress",
+    "fabric": "polyester",
+    "sizes": [
+      "s",
+      "l",
+      "xl",
+      "xs"
+    ],
+    "price": 82,
+    "images": {
+      "orange": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/4-orange-1_fo7vkv.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/4-orange-2_cahlos.jpg"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "date": "2024-01-06",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/5-pink-1_co70ff.jpg",
+    "name": "Wool Pants",
+    "colors": [
+      "pink"
+    ],
+    "type": "pants",
+    "fabric": "wool",
+    "sizes": [
+      "m",
+      "xl",
+      "s",
+      "xs",
+      "l"
+    ],
+    "price": 197,
+    "images": {
+      "pink": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153456/5-pink-1_co70ff.jpg"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "date": "2025-06-17",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153457/6-black-1_q46s8u.jpg",
+    "name": "Wool Hoodie",
+    "colors": [
+      "black"
+    ],
+    "type": "hoodie",
+    "fabric": "wool",
+    "sizes": [
+      "m",
+      "s",
+      "l",
+      "xl"
+    ],
+    "price": 106,
+    "images": {
+      "black": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153457/6-black-1_q46s8u.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153457/6-black-2_hmjcyw.jpg"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "date": "2024-12-29",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153457/7-dark_blue-1_qjg5fv.jpg",
+    "name": "Wool Jacket",
+    "colors": [
+      "dark-blue",
+      "yellow",
+      "white"
+    ],
+    "type": "jacket",
+    "fabric": "wool",
+    "sizes": [
+      "l",
+      "s"
+    ],
+    "price": 93,
+    "images": {
+      "dark-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153457/7-dark_blue-1_qjg5fv.jpg"
+      ],
+      "yellow": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153460/7-yellow-1_fmdtqc.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153460/7-yellow-2_dz0o55.jpg"
+      ],
+      "white": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153457/7-white-1_gfhwiy.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153460/7-white-2_jdvyye.jpg"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "date": "2025-05-20",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153460/8-black-1_rgcn8s.jpg",
+    "name": "Linen Coat",
+    "colors": [
+      "black"
+    ],
+    "type": "coat",
+    "fabric": "linen",
+    "sizes": [
+      "l",
+      "s",
+      "xl"
+    ],
+    "price": 293,
+    "images": {
+      "black": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153460/8-black-1_rgcn8s.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153460/8-black-2_rs7nhi.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153461/8-black-3_y5nyyt.jpg"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "date": "2025-08-08",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153464/9-orange-1_kkn7hy.jpg",
+    "name": "Linen Jeans",
+    "colors": [
+      "orange",
+      "purple",
+      "black"
+    ],
+    "type": "jeans",
+    "fabric": "linen",
+    "sizes": [
+      "m",
+      "s",
+      "xl",
+      "l"
+    ],
+    "price": 300,
+    "images": {
+      "orange": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153464/9-orange-1_kkn7hy.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153464/9-orange-2_iu2iqb.jpg"
+      ],
+      "purple": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153464/9-purple-1_pufdfz.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153464/9-purple-2_qtk4x5.jpg"
+      ],
+      "black": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153461/9-black-1_ktagby.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153464/9-black-2_quamg1.jpg"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "date": "2024-03-31",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153465/10-light_blue-1_ycxa0f.jpg",
+    "name": "Cashmere Hoodie",
+    "colors": [
+      "light-blue",
+      "pink",
+      "red"
+    ],
+    "type": "hoodie",
+    "fabric": "cashmere",
+    "sizes": [
+      "xl",
+      "l",
+      "m",
+      "xs"
+    ],
+    "price": 129,
+    "images": {
+      "light-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153465/10-light_blue-1_ycxa0f.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153465/10-light_blue-2_sub9u1.jpg"
+      ],
+      "pink": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153465/10-pink-1_fhizgm.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153465/10-pink-2_l8d3ja.jpg"
+      ],
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153470/10-red-1_okewnh.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759153455/10-red-2_spw4xm.jpg"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "date": "2025-01-11",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/11-dark_blue-1_vubwgo.jpg",
+    "name": "Wool Jeans",
+    "colors": [
+      "dark-blue"
+    ],
+    "type": "jeans",
+    "fabric": "wool",
+    "sizes": [
+      "s",
+      "l",
+      "m"
+    ],
+    "price": 40,
+    "images": {
+      "dark-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/11-dark_blue-1_vubwgo.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242223/11-dark_blue-2_yxpcea.jpg"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "date": "2024-10-23",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/12-light_blue-1_zqkcxa.jpg",
+    "name": "Polyester Pants",
+    "colors": [
+      "light-blue",
+      "black"
+    ],
+    "type": "pants",
+    "fabric": "polyester",
+    "sizes": [
+      "m",
+      "s",
+      "xs",
+      "xl",
+      "l"
+    ],
+    "price": 183,
+    "images": {
+      "light-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/12-light_blue-1_zqkcxa.jpg"
+      ],
+      "black": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242223/12-black-1_xcdrt3.jpg"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "date": "2025-05-16",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/13-yellow-1_kwcux9.jpg",
+    "name": "Wool Hoodie",
+    "colors": [
+      "yellow",
+      "white",
+      "light-blue"
+    ],
+    "type": "hoodie",
+    "fabric": "wool",
+    "sizes": [
+      "xs",
+      "l",
+      "m",
+      "s",
+      "xl"
+    ],
+    "price": 274,
+    "images": {
+      "yellow": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/13-yellow-1_kwcux9.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242223/13-yellow-2_o4kb6l.jpg"
+      ],
+      "white": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/13-white-1_vv5hrz.jpg"
+      ],
+      "light-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242225/13-light_blue-1_e2sr0d.jpg"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "date": "2024-02-27",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/14-red-1_yuziq9.jpg",
+    "name": "Polyester Hoodie",
+    "colors": [
+      "red",
+      "light-blue",
+      "purple"
+    ],
+    "type": "hoodie",
+    "fabric": "polyester",
+    "sizes": [
+      "xs",
+      "l",
+      "xl",
+      "m"
+    ],
+    "price": 146,
+    "images": {
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/14-red-1_yuziq9.jpg"
+      ],
+      "light-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242223/14-light_blue-1_a6lryg.jpg"
+      ],
+      "purple": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/14-purple1_r0zwd4.jpg"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "date": "2024-09-25",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/15-green-1_i4zlvl.jpg",
+    "name": "Silk Jacket",
+    "colors": [
+      "green",
+      "light-blue",
+      "white"
+    ],
+    "type": "jacket",
+    "fabric": "silk",
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "price": 208,
+    "images": {
+      "green": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242224/15-green-1_i4zlvl.jpg"
+      ],
+      "light-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242225/15-light_blue-1_fwjlc6.jpg"
+      ],
+      "white": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242225/15-white-1_oxv0cj.jpg"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "date": "2024-05-16",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242226/16-black-1_tx5boy.jpg",
+    "name": "Cotton Jacket",
+    "colors": [
+      "black",
+      "orange"
+    ],
+    "type": "jacket",
+    "fabric": "cotton",
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "price": 38,
+    "images": {
+      "black": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242226/16-black-1_tx5boy.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242227/16-black-2_m4yqay.jpg"
+      ],
+      "orange": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242226/16-orange-1_nn2w5i.jpg"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "date": "2025-05-07",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242227/17-pink-1_uqcpde.jpg",
+    "name": "Wool Coat",
+    "colors": [
+      "pink",
+      "orange",
+      "dark-blue"
+    ],
+    "type": "coat",
+    "fabric": "wool",
+    "sizes": [
+      "xl",
+      "s",
+      "xs",
+      "l"
+    ],
+    "price": 274,
+    "images": {
+      "pink": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242227/17-pink-1_uqcpde.jpg"
+      ],
+      "orange": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242227/17-orange-1_bbqjlq.jpg"
+      ],
+      "dark-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242226/17-dark_blue-1_giapez.jpg"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "date": "2024-04-10",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242227/18-dark_blue-1_dz4ai6.jpg",
+    "name": "Cotton Jeans",
+    "colors": [
+      "dark-blue"
+    ],
+    "type": "jeans",
+    "fabric": "cotton",
+    "sizes": [
+      "xl",
+      "l",
+      "s",
+      "xs",
+      "m"
+    ],
+    "price": 218,
+    "images": {
+      "dark-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242227/18-dark_blue-1_dz4ai6.jpg"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "date": "2024-11-15",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242227/19-light_blue-1_x2puev.jpg",
+    "name": "Linen Pants",
+    "colors": [
+      "light-blue",
+      "purple",
+      "white"
+    ],
+    "type": "pants",
+    "fabric": "linen",
+    "sizes": [
+      "m",
+      "l",
+      "s"
+    ],
+    "price": 267,
+    "images": {
+      "light-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242227/19-light_blue-1_x2puev.jpg"
+      ],
+      "purple": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242227/19-purple-1_kd7mda.jpg"
+      ],
+      "white": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242228/19-white-1_amcuzv.jpg"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "date": "2024-02-07",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242228/20-red-1_tnbir1.jpg",
+    "name": "Polyester Dress",
+    "colors": [
+      "red"
+    ],
+    "type": "dress",
+    "fabric": "polyester",
+    "sizes": [
+      "xs",
+      "s"
+    ],
+    "price": 297,
+    "images": {
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242228/20-red-1_tnbir1.jpg"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "date": "2024-01-10",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242228/21-red-1_qnodgl.jpg",
+    "name": "Cashmere Dress",
+    "colors": [
+      "red",
+      "pink"
+    ],
+    "type": "dress",
+    "fabric": "cashmere",
+    "sizes": [
+      "xs",
+      "xl",
+      "s"
+    ],
+    "price": 191,
+    "images": {
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242228/21-red-1_qnodgl.jpg"
+      ],
+      "pink": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242228/21-pink-1_ehmhyq.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242228/21-pink-2_vhuhwn.jpg"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "date": "2025-03-14",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242229/22-black-1_ko0wib.jpg",
+    "name": "Polyester Pajamas",
+    "colors": [
+      "black"
+    ],
+    "type": "pajamas",
+    "fabric": "polyester",
+    "sizes": [
+      "xs",
+      "m"
+    ],
+    "price": 258,
+    "images": {
+      "black": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242229/22-black-1_ko0wib.jpg"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "date": "2025-08-21",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242229/23-pink-1_bx5z9n.jpg",
+    "name": "Linen Pajamas",
+    "colors": [
+      "pink",
+      "green"
+    ],
+    "type": "pajamas",
+    "fabric": "linen",
+    "sizes": [
+      "l",
+      "xl",
+      "m"
+    ],
+    "price": 203,
+    "images": {
+      "pink": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242229/23-pink-1_bx5z9n.jpg"
+      ],
+      "green": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242229/23-green-1_duzs6n.jpg"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "date": "2024-11-08",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242229/24-green-1_l7gczc.jpg",
+    "name": "Linen Hoodie",
+    "colors": [
+      "green",
+      "light-blue"
+    ],
+    "type": "hoodie",
+    "fabric": "linen",
+    "sizes": [
+      "l",
+      "xs",
+      "m",
+      "xl"
+    ],
+    "price": 250,
+    "images": {
+      "green": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242229/24-green-1_l7gczc.jpg"
+      ],
+      "light-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242229/24-light_blue-1_or309c.jpg"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "date": "2024-05-04",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242229/25-red-1_ai2oar.jpg",
+    "name": "Linen Coat",
+    "colors": [
+      "red"
+    ],
+    "type": "coat",
+    "fabric": "linen",
+    "sizes": [
+      "xl",
+      "xs",
+      "m"
+    ],
+    "price": 285,
+    "images": {
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242229/25-red-1_ai2oar.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242230/25-red-2_m7tday.jpg"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "date": "2024-02-26",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242230/26-dark_blue-1_a475zk.jpg",
+    "name": "Silk Pajamas",
+    "colors": [
+      "dark-blue",
+      "purple"
+    ],
+    "type": "pajamas",
+    "fabric": "silk",
+    "sizes": [
+      "xl",
+      "l",
+      "s",
+      "m",
+      "xs"
+    ],
+    "price": 297,
+    "images": {
+      "dark-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242230/26-dark_blue-1_a475zk.jpg"
+      ],
+      "purple": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242230/26-purple-1_eovdq6.jpg"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "date": "2024-12-19",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242230/27-purple-1_jytstx.jpg",
+    "name": "Linen Jeans",
+    "colors": [
+      "purple",
+      "yellow",
+      "red"
+    ],
+    "type": "jeans",
+    "fabric": "linen",
+    "sizes": [
+      "m",
+      "xl",
+      "s",
+      "l",
+      "xs"
+    ],
+    "price": 126,
+    "images": {
+      "purple": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242230/27-purple-1_jytstx.jpg"
+      ],
+      "yellow": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242686/27-yellow-1_dcjzgl.jpg"
+      ],
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242230/27-red-1_avnecn.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242230/27-red-2_txl0fx.jpg"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "date": "2025-01-08",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242816/28-pink-1_ctmu6g.jpg",
+    "name": "Cashmere Pajamas",
+    "colors": [
+      "pink",
+      "dark-blue",
+      "black"
+    ],
+    "type": "pajamas",
+    "fabric": "cashmere",
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "price": 205,
+    "images": {
+      "pink": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242816/28-pink-1_ctmu6g.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242816/28-pink-2_dvfj6c.jpg"
+      ],
+      "dark-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242816/28-dark_blue-1_emrxma.jpg"
+      ],
+      "black": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242815/28-black-1_dxle0r.jpg"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "date": "2024-08-03",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/29-red-1_vnweul.jpg",
+    "name": "Wool Hoodie",
+    "colors": [
+      "red"
+    ],
+    "type": "hoodie",
+    "fabric": "wool",
+    "sizes": [
+      "s",
+      "l"
+    ],
+    "price": 257,
+    "images": {
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/29-red-1_vnweul.jpg"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "date": "2024-05-01",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/30-red-1_pcj0ul.jpg",
+    "name": "Silk Jacket",
+    "colors": [
+      "red",
+      "pink"
+    ],
+    "type": "jacket",
+    "fabric": "silk",
+    "sizes": [
+      "l",
+      "m",
+      "s",
+      "xs"
+    ],
+    "price": 287,
+    "images": {
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/30-red-1_pcj0ul.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/30-red-2_j3krnu.jpg"
+      ],
+      "pink": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242816/30-pink-1_rqczvt.jpg"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "date": "2025-06-04",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/31-yellow-1_omxdkc.jpg",
+    "name": "Cashmere Pants",
+    "colors": [
+      "yellow"
+    ],
+    "type": "pants",
+    "fabric": "cashmere",
+    "sizes": [
+      "l",
+      "xs",
+      "xl",
+      "s",
+      "m"
+    ],
+    "price": 31,
+    "images": {
+      "yellow": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/31-yellow-1_omxdkc.jpg"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "date": "2025-05-25",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/32-green-1_p0ytg1.jpg",
+    "name": "Silk Pajamas",
+    "colors": [
+      "green"
+    ],
+    "type": "pajamas",
+    "fabric": "silk",
+    "sizes": [
+      "m",
+      "s",
+      "l",
+      "xs"
+    ],
+    "price": 161,
+    "images": {
+      "green": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/32-green-1_p0ytg1.jpg"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "date": "2024-04-24",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242818/33-yellow-1_kg98hm.jpg",
+    "name": "Polyester Jacket",
+    "colors": [
+      "yellow",
+      "dark-blue",
+      "white"
+    ],
+    "type": "jacket",
+    "fabric": "polyester",
+    "sizes": [
+      "l",
+      "m"
+    ],
+    "price": 181,
+    "images": {
+      "yellow": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242818/33-yellow-1_kg98hm.jpg"
+      ],
+      "dark-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/33-dark_blue-1_gjcs8e.jpg"
+      ],
+      "white": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242817/33-white-1_rizgsw.jpg"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "date": "2025-04-24",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242818/34-pink-1_lx0ci6.jpg",
+    "name": "Wool Coat",
+    "colors": [
+      "pink",
+      "orange",
+      "light-blue"
+    ],
+    "type": "coat",
+    "fabric": "wool",
+    "sizes": [
+      "l",
+      "xs",
+      "xl",
+      "s"
+    ],
+    "price": 55,
+    "images": {
+      "pink": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242818/34-pink-1_lx0ci6.jpg"
+      ],
+      "orange": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242818/34-orange-1_xzkrja.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242818/34-orange-2_i3vkew.jpg"
+      ],
+      "light-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242818/34-light_blue-1_yrol9s.jpg"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "date": "2025-07-25",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242818/35-purple-1_smpufq.jpg",
+    "name": "Cashmere Hoodie",
+    "colors": [
+      "purple",
+      "yellow"
+    ],
+    "type": "hoodie",
+    "fabric": "cashmere",
+    "sizes": [
+      "s",
+      "l",
+      "xl",
+      "m"
+    ],
+    "price": 83,
+    "images": {
+      "purple": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242818/35-purple-1_smpufq.jpg"
+      ],
+      "yellow": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242820/35-yellow-1_mwxuip.jpg"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "date": "2024-05-09",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242819/36-yellow-1_fko1gm.jpg",
+    "name": "Silk Coat",
+    "colors": [
+      "yellow",
+      "white",
+      "light-blue"
+    ],
+    "type": "coat",
+    "fabric": "silk",
+    "sizes": [
+      "l",
+      "xs",
+      "xl",
+      "m",
+      "s"
+    ],
+    "price": 281,
+    "images": {
+      "yellow": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242819/36-yellow-1_fko1gm.jpg"
+      ],
+      "white": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242819/36-white-1_onhkof.jpg"
+      ],
+      "light-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242819/36-light_blue-1_wpcyil.jpg"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "date": "2024-04-20",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242819/37-green-1_smlnra.jpg",
+    "name": "Linen Pajamas",
+    "colors": [
+      "green",
+      "yellow"
+    ],
+    "type": "pajamas",
+    "fabric": "linen",
+    "sizes": [
+      "m",
+      "s",
+      "xl",
+      "xs",
+      "l"
+    ],
+    "price": 199,
+    "images": {
+      "green": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242819/37-green-1_smlnra.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242819/37-green-2_tf9h45.jpg"
+      ],
+      "yellow": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242820/37-yellow-1_krmnuy.jpg"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "date": "2025-06-23",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242821/38-purple-1_znvymu.jpg",
+    "name": "Silk Jacket",
+    "colors": [
+      "purple"
+    ],
+    "type": "jacket",
+    "fabric": "silk",
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "price": 284,
+    "images": {
+      "purple": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242821/38-purple-1_znvymu.jpg"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "date": "2025-03-01",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242820/39-red-1_amssef.jpg",
+    "name": "Polyester Pajamas",
+    "colors": [
+      "red"
+    ],
+    "type": "pajamas",
+    "fabric": "polyester",
+    "sizes": [
+      "l",
+      "xl",
+      "s",
+      "xs",
+      "m"
+    ],
+    "price": 146,
+    "images": {
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242820/39-red-1_amssef.jpg"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "date": "2024-10-21",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242820/40-green-1_nrvkwm.jpg",
+    "name": "Wool Dress",
+    "colors": [
+      "green",
+      "red"
+    ],
+    "type": "dress",
+    "fabric": "wool",
+    "sizes": [
+      "m",
+      "s",
+      "xs",
+      "l"
+    ],
+    "price": 131,
+    "images": {
+      "green": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242820/40-green-1_nrvkwm.jpg"
+      ],
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/40-red-1_c2cxxx.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/40-red-2_pyokkb.jpg"
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "date": "2024-09-17",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/41-white-1_wwmt6t.jpg",
+    "name": "Cotton Hoodie",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "type": "hoodie",
+    "fabric": "cotton",
+    "sizes": [
+      "m",
+      "xl"
+    ],
+    "price": 172,
+    "images": {
+      "white": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/41-white-1_wwmt6t.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/41-white-2_ypqtdd.jpg"
+      ],
+      "red": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/41-red-1_tnbx7e.jpg",
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/41-red-2_mdqugt.jpg"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "date": "2024-02-06",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/42-dark_blue-1_xvwpgc.jpg",
+    "name": "Cotton Hoodie",
+    "colors": [
+      "dark-blue",
+      "green",
+      "black"
+    ],
+    "type": "hoodie",
+    "fabric": "cotton",
+    "sizes": [
+      "s",
+      "xs"
+    ],
+    "price": 217,
+    "images": {
+      "dark-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/42-dark_blue-1_xvwpgc.jpg"
+      ],
+      "green": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/42-green-1_vtgt0h.jpg"
+      ],
+      "black": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242842/42-black-1_ow4vnk.jpg"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "date": "2024-05-07",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242843/43-pink-1_uhqbpi.jpg",
+    "name": "Linen Pajamas",
+    "colors": [
+      "pink"
+    ],
+    "type": "pajamas",
+    "fabric": "linen",
+    "sizes": [
+      "xl",
+      "s",
+      "m",
+      "xs",
+      "l"
+    ],
+    "price": 40,
+    "images": {
+      "pink": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242843/43-pink-1_uhqbpi.jpg"
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "date": "2024-10-27",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242843/44-green-1_s2yh6n.jpg",
+    "name": "Silk Pants",
+    "colors": [
+      "green"
+    ],
+    "type": "pants",
+    "fabric": "silk",
+    "sizes": [
+      "xl",
+      "l",
+      "m"
+    ],
+    "price": 170,
+    "images": {
+      "green": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242843/44-green-1_s2yh6n.jpg"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "date": "2024-10-19",
+    "image": "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242843/45-orange-1_czezfv.jpg",
+    "name": "Silk Coat",
+    "colors": [
+      "orange",
+      "light-blue"
+    ],
+    "type": "coat",
+    "fabric": "silk",
+    "sizes": [
+      "xl",
+      "xs",
+      "l"
+    ],
+    "price": 289,
+    "images": {
+      "orange": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242843/45-orange-1_czezfv.jpg"
+      ],
+      "light-blue": [
+        "https://res.cloudinary.com/dxi74dxww/image/upload/v1759242223/45-light_blue-1_lfpqlr.jpg"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "date": "2025-04-24",
+    "image": "image/url",
+    "name": "Polyester Hoodie",
+    "colors": [
+      "orange",
+      "yellow"
+    ],
+    "type": "hoodie",
+    "fabric": "polyester",
+    "sizes": [
+      "xl",
+      "xs",
+      "m",
+      "l",
+      "s"
+    ],
+    "price": 144,
+    "images": {
+      "orange": [
+        "orange-image/url",
+        "orange-image/url",
+        "orange-image/url"
+      ],
+      "yellow": [
+        "yellow-image/url"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "date": "2024-06-23",
+    "image": "image/url",
+    "name": "Polyester Jacket",
+    "colors": [
+      "white"
+    ],
+    "type": "jacket",
+    "fabric": "polyester",
+    "sizes": [
+      "s",
+      "xl",
+      "xs",
+      "l"
+    ],
+    "price": 296,
+    "images": {
+      "white": [
+        "white-image/url",
+        "white-image/url",
+        "white-image/url"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "date": "2024-01-02",
+    "image": "image/url",
+    "name": "Cashmere Jeans",
+    "colors": [
+      "black",
+      "yellow"
+    ],
+    "type": "jeans",
+    "fabric": "cashmere",
+    "sizes": [
+      "l",
+      "xs",
+      "xl",
+      "s"
+    ],
+    "price": 257,
+    "images": {
+      "black": [
+        "black-image/url",
+        "black-image/url"
+      ],
+      "yellow": [
+        "yellow-image/url",
+        "yellow-image/url",
+        "yellow-image/url"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "date": "2024-04-16",
+    "image": "image/url",
+    "name": "Linen Dress",
+    "colors": [
+      "green",
+      "purple",
+      "black"
+    ],
+    "type": "dress",
+    "fabric": "linen",
+    "sizes": [
+      "xl",
+      "xs",
+      "s"
+    ],
+    "price": 221,
+    "images": {
+      "green": [
+        "green-image/url",
+        "green-image/url"
+      ],
+      "purple": [
+        "purple-image/url",
+        "purple-image/url",
+        "purple-image/url"
+      ],
+      "black": [
+        "black-image/url",
+        "black-image/url"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "date": "2025-01-14",
+    "image": "image/url",
+    "name": "Linen Jacket",
+    "colors": [
+      "red"
+    ],
+    "type": "jacket",
+    "fabric": "linen",
+    "sizes": [
+      "m",
+      "s",
+      "xl",
+      "xs",
+      "l"
+    ],
+    "price": 57,
+    "images": {
+      "red": [
+        "red-image/url",
+        "red-image/url",
+        "red-image/url"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "date": "2025-04-29",
+    "image": "image/url",
+    "name": "Silk Pants",
+    "colors": [
+      "orange"
+    ],
+    "type": "pants",
+    "fabric": "silk",
+    "sizes": [
+      "m",
+      "s",
+      "l"
+    ],
+    "price": 132,
+    "images": {
+      "orange": [
+        "orange-image/url"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "date": "2025-05-30",
+    "image": "image/url",
+    "name": "Polyester Dress",
+    "colors": [
+      "white"
+    ],
+    "type": "dress",
+    "fabric": "polyester",
+    "sizes": [
+      "l",
+      "xl",
+      "s"
+    ],
+    "price": 177,
+    "images": {
+      "white": [
+        "white-image/url",
+        "white-image/url"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "date": "2025-03-29",
+    "image": "image/url",
+    "name": "Cotton Pajamas",
+    "colors": [
+      "green",
+      "orange"
+    ],
+    "type": "pajamas",
+    "fabric": "cotton",
+    "sizes": [
+      "xs",
+      "m",
+      "l",
+      "s"
+    ],
+    "price": 84,
+    "images": {
+      "green": [
+        "green-image/url"
+      ],
+      "orange": [
+        "orange-image/url",
+        "orange-image/url",
+        "orange-image/url"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "date": "2025-06-29",
+    "image": "image/url",
+    "name": "Linen Pajamas",
+    "colors": [
+      "pink",
+      "purple"
+    ],
+    "type": "pajamas",
+    "fabric": "linen",
+    "sizes": [
+      "l",
+      "xl",
+      "m"
+    ],
+    "price": 224,
+    "images": {
+      "pink": [
+        "pink-image/url",
+        "pink-image/url",
+        "pink-image/url"
+      ],
+      "purple": [
+        "purple-image/url"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "date": "2025-06-28",
+    "image": "image/url",
+    "name": "Wool Hoodie",
+    "colors": [
+      "dark-blue",
+      "pink"
+    ],
+    "type": "hoodie",
+    "fabric": "wool",
+    "sizes": [
+      "xl",
+      "xs",
+      "s",
+      "l",
+      "m"
+    ],
+    "price": 205,
+    "images": {
+      "dark-blue": [
+        "dark-blue-image/url",
+        "dark-blue-image/url"
+      ],
+      "pink": [
+        "pink-image/url"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "date": "2024-12-03",
+    "image": "image/url",
+    "name": "Silk Dress",
+    "colors": [
+      "yellow",
+      "dark-blue"
+    ],
+    "type": "dress",
+    "fabric": "silk",
+    "sizes": [
+      "xs",
+      "m",
+      "xl"
+    ],
+    "price": 216,
+    "images": {
+      "yellow": [
+        "yellow-image/url",
+        "yellow-image/url",
+        "yellow-image/url"
+      ],
+      "dark-blue": [
+        "dark-blue-image/url",
+        "dark-blue-image/url",
+        "dark-blue-image/url"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "date": "2024-01-01",
+    "image": "image/url",
+    "name": "Wool Pants",
+    "colors": [
+      "orange",
+      "purple",
+      "white"
+    ],
+    "type": "pants",
+    "fabric": "wool",
+    "sizes": [
+      "s",
+      "xs",
+      "l"
+    ],
+    "price": 222,
+    "images": {
+      "orange": [
+        "orange-image/url",
+        "orange-image/url",
+        "orange-image/url"
+      ],
+      "purple": [
+        "purple-image/url",
+        "purple-image/url"
+      ],
+      "white": [
+        "white-image/url",
+        "white-image/url"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "date": "2024-10-07",
+    "image": "image/url",
+    "name": "Silk Hoodie",
+    "colors": [
+      "yellow",
+      "black",
+      "orange"
+    ],
+    "type": "hoodie",
+    "fabric": "silk",
+    "sizes": [
+      "s",
+      "xs",
+      "m",
+      "xl",
+      "l"
+    ],
+    "price": 105,
+    "images": {
+      "yellow": [
+        "yellow-image/url",
+        "yellow-image/url",
+        "yellow-image/url"
+      ],
+      "black": [
+        "black-image/url",
+        "black-image/url"
+      ],
+      "orange": [
+        "orange-image/url"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "date": "2025-04-17",
+    "image": "image/url",
+    "name": "Polyester Jacket",
+    "colors": [
+      "purple",
+      "light-blue"
+    ],
+    "type": "jacket",
+    "fabric": "polyester",
+    "sizes": [
+      "xl",
+      "s",
+      "l",
+      "m"
+    ],
+    "price": 39,
+    "images": {
+      "purple": [
+        "purple-image/url",
+        "purple-image/url"
+      ],
+      "light-blue": [
+        "light-blue-image/url",
+        "light-blue-image/url"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "date": "2024-07-28",
+    "image": "image/url",
+    "name": "Cotton Hoodie",
+    "colors": [
+      "orange"
+    ],
+    "type": "hoodie",
+    "fabric": "cotton",
+    "sizes": [
+      "s",
+      "xl",
+      "l",
+      "m",
+      "xs"
+    ],
+    "price": 75,
+    "images": {
+      "orange": [
+        "orange-image/url",
+        "orange-image/url"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "date": "2025-06-01",
+    "image": "image/url",
+    "name": "Silk Dress",
+    "colors": [
+      "pink",
+      "purple"
+    ],
+    "type": "dress",
+    "fabric": "silk",
+    "sizes": [
+      "s",
+      "m",
+      "xl"
+    ],
+    "price": 259,
+    "images": {
+      "pink": [
+        "pink-image/url"
+      ],
+      "purple": [
+        "purple-image/url"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "date": "2025-06-20",
+    "image": "image/url",
+    "name": "Silk Coat",
+    "colors": [
+      "orange",
+      "light-blue",
+      "black"
+    ],
+    "type": "coat",
+    "fabric": "silk",
+    "sizes": [
+      "m",
+      "l",
+      "xl",
+      "s"
+    ],
+    "price": 213,
+    "images": {
+      "orange": [
+        "orange-image/url"
+      ],
+      "light-blue": [
+        "light-blue-image/url",
+        "light-blue-image/url"
+      ],
+      "black": [
+        "black-image/url",
+        "black-image/url"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "date": "2024-06-20",
+    "image": "image/url",
+    "name": "Silk Jeans",
+    "colors": [
+      "pink",
+      "black"
+    ],
+    "type": "jeans",
+    "fabric": "silk",
+    "sizes": [
+      "l",
+      "xl",
+      "m"
+    ],
+    "price": 207,
+    "images": {
+      "pink": [
+        "pink-image/url",
+        "pink-image/url",
+        "pink-image/url"
+      ],
+      "black": [
+        "black-image/url",
+        "black-image/url"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "date": "2024-05-11",
+    "image": "image/url",
+    "name": "Polyester Hoodie",
+    "colors": [
+      "yellow",
+      "purple",
+      "red"
+    ],
+    "type": "hoodie",
+    "fabric": "polyester",
+    "sizes": [
+      "s",
+      "xs",
+      "m",
+      "xl",
+      "l"
+    ],
+    "price": 252,
+    "images": {
+      "yellow": [
+        "yellow-image/url"
+      ],
+      "purple": [
+        "purple-image/url",
+        "purple-image/url",
+        "purple-image/url"
+      ],
+      "red": [
+        "red-image/url",
+        "red-image/url",
+        "red-image/url"
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "date": "2025-04-26",
+    "image": "image/url",
+    "name": "Cotton Jacket",
+    "colors": [
+      "black",
+      "pink"
+    ],
+    "type": "jacket",
+    "fabric": "cotton",
+    "sizes": [
+      "s",
+      "l",
+      "m",
+      "xl",
+      "xs"
+    ],
+    "price": 51,
+    "images": {
+      "black": [
+        "black-image/url",
+        "black-image/url"
+      ],
+      "pink": [
+        "pink-image/url",
+        "pink-image/url"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "date": "2024-10-15",
+    "image": "image/url",
+    "name": "Silk Jacket",
+    "colors": [
+      "dark-blue",
+      "green"
+    ],
+    "type": "jacket",
+    "fabric": "silk",
+    "sizes": [
+      "s",
+      "m"
+    ],
+    "price": 92,
+    "images": {
+      "dark-blue": [
+        "dark-blue-image/url"
+      ],
+      "green": [
+        "green-image/url"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "date": "2025-01-26",
+    "image": "image/url",
+    "name": "Cotton Pajamas",
+    "colors": [
+      "yellow"
+    ],
+    "type": "pajamas",
+    "fabric": "cotton",
+    "sizes": [
+      "s",
+      "l",
+      "xs",
+      "xl",
+      "m"
+    ],
+    "price": 188,
+    "images": {
+      "yellow": [
+        "yellow-image/url",
+        "yellow-image/url"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "date": "2024-02-22",
+    "image": "image/url",
+    "name": "Polyester Jeans",
+    "colors": [
+      "light-blue",
+      "yellow"
+    ],
+    "type": "jeans",
+    "fabric": "polyester",
+    "sizes": [
+      "xl",
+      "l"
+    ],
+    "price": 102,
+    "images": {
+      "light-blue": [
+        "light-blue-image/url",
+        "light-blue-image/url",
+        "light-blue-image/url"
+      ],
+      "yellow": [
+        "yellow-image/url",
+        "yellow-image/url"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "date": "2025-03-12",
+    "image": "image/url",
+    "name": "Silk Hoodie",
+    "colors": [
+      "pink",
+      "purple",
+      "red"
+    ],
+    "type": "hoodie",
+    "fabric": "silk",
+    "sizes": [
+      "s",
+      "l",
+      "xs",
+      "m",
+      "xl"
+    ],
+    "price": 91,
+    "images": {
+      "pink": [
+        "pink-image/url",
+        "pink-image/url",
+        "pink-image/url"
+      ],
+      "purple": [
+        "purple-image/url"
+      ],
+      "red": [
+        "red-image/url",
+        "red-image/url",
+        "red-image/url"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "date": "2024-01-28",
+    "image": "image/url",
+    "name": "Linen Jacket",
+    "colors": [
+      "light-blue",
+      "black"
+    ],
+    "type": "jacket",
+    "fabric": "linen",
+    "sizes": [
+      "xl",
+      "xs",
+      "m"
+    ],
+    "price": 191,
+    "images": {
+      "light-blue": [
+        "light-blue-image/url"
+      ],
+      "black": [
+        "black-image/url",
+        "black-image/url"
+      ]
+    }
+  }
+]

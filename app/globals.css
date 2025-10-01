@@ -132,3 +132,9 @@ body {
   @apply font-normal text-[10px]
 }
 
+.grid-layout {
+      grid-template:
+        "a b"
+        "c b"
+        "c d ";
+    }

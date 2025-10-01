@@ -1,21 +1,20 @@
 import Link from 'next/link'
-import React from 'react'
-import SwiperSlider from '../shared/SwiperSlider'
-import { ProductProps } from '@/lib/props'
+import React, { Suspense } from 'react'
+import BSProductList from '../shared/BSProductList';
+import LoadingListPC from '../shared/LoadingListPC';
 
-const bestSellers : ProductProps[] = [
-    {id: 15, date: new Date(),image: '/images/15.png', name: 'Easy in short', colors: ['black', 'green'], type: 'Turn it up short', price: 130},
-    {id: 25, date: new Date(),image: '/images/25.png', name: 'Easy shirt', colors: ['green', 'pink'], type: 'Turn it up shirt', price: 199},
-]
+const bestSellerIds = [12, 22, 33, 25];
 
-const BestSellers = () => {
+const BestSellers = async () => {
     return (
-        <div className='flex flex-col w-full px-5 max-w-page mx-auto'>
-            <div className='w-full flex justify-between items-end'>
+        <div className='flex flex-col w-full px-5 max-w-page mx-auto mt-5 lg:mt-22'>
+            <div className='w-full flex justify-between items-end mb-2 lg:mb-6'>
                 <h3 className='text-black h3'>Best Sellers</h3>
                 <Link href="" className='button-sm text-primary-600'>View All</Link>
             </div>
-            <SwiperSlider data={bestSellers} />
+            <Suspense fallback={<LoadingListPC />}>
+                <BSProductList ids={bestSellerIds}/>
+            </Suspense>
         </div>
     )
 }
