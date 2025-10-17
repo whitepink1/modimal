@@ -1,0 +1,410 @@
+id: 1 | color: yellow
+Prompt: Studio product photo of a yellow silk coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 2 | color: yellow
+Prompt: Studio product photo of a yellow silk jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 2 | color: red
+Prompt: Studio product photo of a red silk jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 3 | color: white
+Prompt: Studio product photo of a white cotton jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 3 | color: black
+Prompt: Studio product photo of a black cotton jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 4 | color: orange
+Prompt: Studio product photo of a orange polyester dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 5 | color: pink
+Prompt: Studio product photo of a pink wool pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 6 | color: black
+Prompt: Studio product photo of a black wool hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 7 | color: dark-blue
+Prompt: Studio product photo of a dark-blue wool jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 7 | color: yellow
+Prompt: Studio product photo of a yellow wool jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 7 | color: white
+Prompt: Studio product photo of a white wool jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 8 | color: black
+Prompt: Studio product photo of a black linen coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 9 | color: orange
+Prompt: Studio product photo of a orange linen jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 9 | color: purple
+Prompt: Studio product photo of a purple linen jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 9 | color: black
+Prompt: Studio product photo of a black linen jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 10 | color: light-blue
+Prompt: Studio product photo of a light-blue cashmere hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 10 | color: pink
+Prompt: Studio product photo of a pink cashmere hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 10 | color: red
+Prompt: Studio product photo of a red cashmere hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 11 | color: dark-blue
+Prompt: Studio product photo of a dark-blue wool jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 12 | color: light-blue
+Prompt: Studio product photo of a light-blue polyester pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 12 | color: black
+Prompt: Studio product photo of a black polyester pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 13 | color: yellow
+Prompt: Studio product photo of a yellow wool hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 13 | color: white
+Prompt: Studio product photo of a white wool hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 13 | color: light-blue
+Prompt: Studio product photo of a light-blue wool hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 14 | color: red
+Prompt: Studio product photo of a red polyester hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 14 | color: light-blue
+Prompt: Studio product photo of a light-blue polyester hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 14 | color: purple
+Prompt: Studio product photo of a purple polyester hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 15 | color: green
+Prompt: Studio product photo of a green silk jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 15 | color: light-blue
+Prompt: Studio product photo of a light-blue silk jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 15 | color: white
+Prompt: Studio product photo of a white silk jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 16 | color: black
+Prompt: Studio product photo of a black cotton jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 16 | color: orange
+Prompt: Studio product photo of a orange cotton jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 17 | color: pink
+Prompt: Studio product photo of a pink wool coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 17 | color: orange
+Prompt: Studio product photo of a orange wool coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 17 | color: dark-blue
+Prompt: Studio product photo of a dark-blue wool coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 18 | color: dark-blue
+Prompt: Studio product photo of a dark-blue cotton jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 19 | color: light-blue
+Prompt: Studio product photo of a light-blue linen pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 19 | color: purple
+Prompt: Studio product photo of a purple linen pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 19 | color: white
+Prompt: Studio product photo of a white linen pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 20 | color: red
+Prompt: Studio product photo of a red polyester dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 21 | color: red
+Prompt: Studio product photo of a red cashmere dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 21 | color: pink
+Prompt: Studio product photo of a pink cashmere dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 22 | color: black
+Prompt: Studio product photo of a black polyester pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 23 | color: pink
+Prompt: Studio product photo of a pink linen pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 23 | color: green
+Prompt: Studio product photo of a green linen pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 24 | color: green
+Prompt: Studio product photo of a green linen hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 24 | color: light-blue
+Prompt: Studio product photo of a light-blue linen hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 25 | color: red
+Prompt: Studio product photo of a red linen coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 26 | color: dark-blue
+Prompt: Studio product photo of a dark-blue silk pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 26 | color: purple
+Prompt: Studio product photo of a purple silk pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 27 | color: purple
+Prompt: Studio product photo of a purple linen jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 27 | color: yellow
+Prompt: Studio product photo of a yellow linen jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 27 | color: red
+Prompt: Studio product photo of a red linen jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 28 | color: pink
+Prompt: Studio product photo of a pink cashmere pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 28 | color: dark-blue
+Prompt: Studio product photo of a dark-blue cashmere pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 28 | color: black
+Prompt: Studio product photo of a black cashmere pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 29 | color: red
+Prompt: Studio product photo of a red wool hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 30 | color: red
+Prompt: Studio product photo of a red silk jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 30 | color: pink
+Prompt: Studio product photo of a pink silk jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 31 | color: yellow
+Prompt: Studio product photo of a yellow cashmere pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 32 | color: green
+Prompt: Studio product photo of a green silk pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 33 | color: yellow
+Prompt: Studio product photo of a yellow polyester jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 33 | color: dark-blue
+Prompt: Studio product photo of a dark-blue polyester jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 33 | color: white
+Prompt: Studio product photo of a white polyester jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 34 | color: pink
+Prompt: Studio product photo of a pink wool coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 34 | color: orange
+Prompt: Studio product photo of a orange wool coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 34 | color: light-blue
+Prompt: Studio product photo of a light-blue wool coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 35 | color: purple
+Prompt: Studio product photo of a purple cashmere hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 35 | color: yellow
+Prompt: Studio product photo of a yellow cashmere hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 36 | color: yellow
+Prompt: Studio product photo of a yellow silk coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 36 | color: white
+Prompt: Studio product photo of a white silk coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 36 | color: light-blue
+Prompt: Studio product photo of a light-blue silk coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 37 | color: green
+Prompt: Studio product photo of a green linen pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 37 | color: yellow
+Prompt: Studio product photo of a yellow linen pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 38 | color: purple
+Prompt: Studio product photo of a purple silk jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 39 | color: red
+Prompt: Studio product photo of a red polyester pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 40 | color: green
+Prompt: Studio product photo of a green wool dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 40 | color: red
+Prompt: Studio product photo of a red wool dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 41 | color: white
+Prompt: Studio product photo of a white cotton hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 41 | color: red
+Prompt: Studio product photo of a red cotton hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 42 | color: dark-blue
+Prompt: Studio product photo of a dark-blue cotton hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 42 | color: green
+Prompt: Studio product photo of a green cotton hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 42 | color: black
+Prompt: Studio product photo of a black cotton hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 43 | color: pink
+Prompt: Studio product photo of a pink linen pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 44 | color: green
+Prompt: Studio product photo of a green silk pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 45 | color: orange
+Prompt: Studio product photo of a orange silk coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 45 | color: light-blue
+Prompt: Studio product photo of a light-blue silk coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 46 | color: orange
+Prompt: Studio product photo of a orange polyester hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 46 | color: yellow
+Prompt: Studio product photo of a yellow polyester hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 47 | color: white
+Prompt: Studio product photo of a white polyester jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 48 | color: black
+Prompt: Studio product photo of a black cashmere jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 48 | color: yellow
+Prompt: Studio product photo of a yellow cashmere jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 49 | color: green
+Prompt: Studio product photo of a green linen dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 49 | color: purple
+Prompt: Studio product photo of a purple linen dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 49 | color: black
+Prompt: Studio product photo of a black linen dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 50 | color: red
+Prompt: Studio product photo of a red linen jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 51 | color: orange
+Prompt: Studio product photo of a orange silk pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 52 | color: white
+Prompt: Studio product photo of a white polyester dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 53 | color: green
+Prompt: Studio product photo of a green cotton pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 53 | color: orange
+Prompt: Studio product photo of a orange cotton pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 54 | color: pink
+Prompt: Studio product photo of a pink linen pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 54 | color: purple
+Prompt: Studio product photo of a purple linen pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 55 | color: dark-blue
+Prompt: Studio product photo of a dark-blue wool hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 55 | color: pink
+Prompt: Studio product photo of a pink wool hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 56 | color: yellow
+Prompt: Studio product photo of a yellow silk dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 56 | color: dark-blue
+Prompt: Studio product photo of a dark-blue silk dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 57 | color: orange
+Prompt: Studio product photo of a orange wool pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 57 | color: purple
+Prompt: Studio product photo of a purple wool pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 57 | color: white
+Prompt: Studio product photo of a white wool pants, minimalistic fashion catalog style, isolated on white background.
+
+id: 58 | color: yellow
+Prompt: Studio product photo of a yellow silk hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 58 | color: black
+Prompt: Studio product photo of a black silk hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 58 | color: orange
+Prompt: Studio product photo of a orange silk hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 59 | color: purple
+Prompt: Studio product photo of a purple polyester jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 59 | color: light-blue
+Prompt: Studio product photo of a light-blue polyester jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 60 | color: orange
+Prompt: Studio product photo of a orange cotton hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 61 | color: pink
+Prompt: Studio product photo of a pink silk dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 61 | color: purple
+Prompt: Studio product photo of a purple silk dress, minimalistic fashion catalog style, isolated on white background.
+
+id: 62 | color: orange
+Prompt: Studio product photo of a orange silk coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 62 | color: light-blue
+Prompt: Studio product photo of a light-blue silk coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 62 | color: black
+Prompt: Studio product photo of a black silk coat, minimalistic fashion catalog style, isolated on white background.
+
+id: 63 | color: pink
+Prompt: Studio product photo of a pink silk jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 63 | color: black
+Prompt: Studio product photo of a black silk jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 64 | color: yellow
+Prompt: Studio product photo of a yellow polyester hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 64 | color: purple
+Prompt: Studio product photo of a purple polyester hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 64 | color: red
+Prompt: Studio product photo of a red polyester hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 65 | color: black
+Prompt: Studio product photo of a black cotton jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 65 | color: pink
+Prompt: Studio product photo of a pink cotton jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 66 | color: dark-blue
+Prompt: Studio product photo of a dark-blue silk jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 66 | color: green
+Prompt: Studio product photo of a green silk jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 67 | color: yellow
+Prompt: Studio product photo of a yellow cotton pajamas, minimalistic fashion catalog style, isolated on white background.
+
+id: 68 | color: light-blue
+Prompt: Studio product photo of a light-blue polyester jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 68 | color: yellow
+Prompt: Studio product photo of a yellow polyester jeans, minimalistic fashion catalog style, isolated on white background.
+
+id: 69 | color: pink
+Prompt: Studio product photo of a pink silk hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 69 | color: purple
+Prompt: Studio product photo of a purple silk hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 69 | color: red
+Prompt: Studio product photo of a red silk hoodie, minimalistic fashion catalog style, isolated on white background.
+
+id: 70 | color: light-blue
+Prompt: Studio product photo of a light-blue linen jacket, minimalistic fashion catalog style, isolated on white background.
+
+id: 70 | color: black
+Prompt: Studio product photo of a black linen jacket, minimalistic fashion catalog style, isolated on white background.

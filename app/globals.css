@@ -131,3 +131,24 @@ body {
 @utility mobile-overline {
   @apply font-normal text-[10px]
 }
+
+.grid-layout {
+  display: grid; 
+  grid-template:
+    "a b"
+    "c b"
+    "c d ";
+}
+
+.colA {
+    grid-area: a;
+}
+.colB {
+    grid-area: b;
+}
+.colC {
+    grid-area: c;
+}
+.colD {
+    grid-area: d;
+}

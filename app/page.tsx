@@ -1,8 +1,19 @@
+import BestSellers from "@/components/Main-Page/BestSellers";
+import Collection from "@/components/Main-Page/Collection";
+import EcoChoice from "@/components/Main-Page/EcoChoice";
+import FollowUs from "@/components/Main-Page/FollowUs";
+import HeroSection from "@/components/Main-Page/HeroSection";
+import ModiWeek from "@/components/Main-Page/ModiWeek";
 
 export default function Home() {
   return (
     <div className="">
-        <h1 className="display-1 text-primary-800 my-20">Hello</h1>
+        <HeroSection />
+        <BestSellers />
+        <Collection />
+        <ModiWeek />
+        <EcoChoice />
+        <FollowUs />
     </div>
   );
 }
