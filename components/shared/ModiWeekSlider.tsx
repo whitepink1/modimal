@@ -1,31 +1,28 @@
 'use client'
-import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import { Pagination } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/pagination';
-import ProductCard from '../Card/ProductCard';
 import { ProductSummary } from '@/lib/Schemas/productSummary';
+import ModiWeekCard from '../Card/ModiWeekCard';
 
 interface IProductsProps {
     data: ProductSummary[];
 }
 
-const SwiperSlider = ({data} : IProductsProps) => {
+const ModiWeekSlider = ({data} : IProductsProps) => {
     return (
         <div className='h-fit'>
             <Swiper 
                 slidesPerView={2} 
                 spaceBetween={16}
-                pagination={{ dynamicBullets: true}} 
-                modules={[Pagination]}
                 breakpoints={{
-                    1024: { slidesPerView: 3, spaceBetween: 24},
+                    1024: { slidesPerView: 4, spaceBetween: 24},
+                    720: { slidesPerView: 3, spaceBetween: 24},
                 }} 
                 className="pb-12">
-                {data?.map((item) => (
+                {data?.map((item, id) => (
                     <SwiperSlide key={item.id}>
-                            <ProductCard product={item} />
+                            <ModiWeekCard product={item} id={id}/>
                     </SwiperSlide>
                 ))}
             </Swiper>
@@ -33,4 +30,4 @@ const SwiperSlider = ({data} : IProductsProps) => {
     )
 }
 
-export default SwiperSlider
+export default ModiWeekSlider

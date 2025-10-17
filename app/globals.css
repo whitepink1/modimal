@@ -133,8 +133,22 @@ body {
 }
 
 .grid-layout {
-      grid-template:
-        "a b"
-        "c b"
-        "c d ";
-    }
+  display: grid; 
+  grid-template:
+    "a b"
+    "c b"
+    "c d ";
+}
+
+.colA {
+    grid-area: a;
+}
+.colB {
+    grid-area: b;
+}
+.colC {
+    grid-area: c;
+}
+.colD {
+    grid-area: d;
+}
