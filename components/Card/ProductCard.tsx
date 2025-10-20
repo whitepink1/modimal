@@ -1,3 +1,4 @@
+import { colorClasses } from '@/lib/data'
 import { ProductSummary } from '@/lib/Schemas/productSummary'
 import Image from 'next/image'
 import React from 'react'
@@ -27,7 +28,11 @@ const ProductCard = ({product}: {product: ProductSummary}) => {
                         <p className='mobile-body-md lg:body-md'>{product.type[0].toUpperCase()}{product.type.slice(1)}</p>
                         <p className='mobile-h4 lg:h6'>${product.price.toFixed(2)}</p>
                     </div>
-                    <p className='px-3'>{product.colors}</p>
+                    <div className='flex justify-star items-center gap-1 px-3'>
+                        {product.colors.map((color) => (
+                            <div key={color} className={`h-4 w-4 ${colorClasses[color] || ''} rounded-full`}/>
+                        ))}
+                    </div>
                 </div>
             </div>
         </div>

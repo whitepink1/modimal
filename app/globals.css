@@ -38,6 +38,16 @@ body {
   --color-success: #00966D;
   --color-success-light: #00BA88;
   --color-success-bg: #F3FDFA;
+  --color-black-cloth: #0C0C0C;
+  --color-red-cloth: #CA2929;
+  --color-green-cloth: #748C70;
+  --color-yellow-cloth: #ECBB77;
+  --color-dark-blue-cloth: #19418E;
+  --color-purple-cloth: #D0A5EA;
+  --color-pink-cloth: #CA2980;
+  --color-light-blue-cloth: #7DC3EB;
+  --color-orange-cloth: #CA6D29;
+  --color-white-cloth: #FFF;
   --spacing-page: 1220px;
 }
 
